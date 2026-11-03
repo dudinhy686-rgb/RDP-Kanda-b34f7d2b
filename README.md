@@ -1,6 +1,7 @@
-# RDP-Kanda-b34f7d2b
-Kanda RDP (GitHub Actions + bore.pub tunnel)
+# RDP Machine
 
-## Ket noi RDP
+Thông tin kết nối (tự tạo bởi Kandagawa Bot — tunnel bore.pub):
 
-- **RDP #1**: `bore.pub:45137` - User: `Kandagawa` / Pass: `Kandagw@12345`
+- **Endpoint (bore.pub) #1**: `bore.pub:45137`
+- **User**: `Kandagawa`
+- **Pass**: `Kandagw@12345`
